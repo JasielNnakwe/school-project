@@ -1,0 +1,168 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body{
+	background-color:beige;
+	font-family: sans-serif;
+}
+span{
+	background-color: purple;
+	color: yellow;
+}
+.container{
+	width: 1200px;
+	margin: 0 auto;
+}
+img{
+font-size: 20px;
+}
+.title{
+	display: flex;
+	margin-top: 50px;
+}
+b{
+	background-color: lightgreen; 
+	color: white;
+}
+.form{
+	margin-top: 80px;
+	background-color: darkblue;
+	padding: 30px;
+}
+input{
+	padding: 5px;
+}
+/* span{
+	background-color: purple;
+	text-align: center;
+	height:70px;
+	width: 100px;
+	font-size: 35px;
+	color: yellow;
+	font: bold;
+} */
+h2{
+	background-color: yellow;
+	width: 350px;
+}
+
+table{
+	margin-top: 50px;
+	border-collapse:collapse;
+}
+td, th{
+	border: 1px solid #ddd;
+	padding:10px ;
+}
+
+
+td{
+	text-align: center;
+}
+table,th,td {
+	border: 1px solid #000;
+}
+ 
+.subjects_header{
+	height: 200px;
+   writing-mode: vertical-lr;
+   transform: rotate(-180deg);
+}
+.subjects_header span{
+	background-color: #fff;
+	color: #000;
+	text-align: center;
+}
+.cognitive_header{
+   background-color: red;
+   color: yellow;
+   text-align: center;
+}
+.cognitive_header-text{
+	 background-color: yellow;
+   color: #000;
+   text-align: center;
+   padding: 10px 0;
+}
+.subjects_heade, .cognitive_header{
+	width: calc(100%/8);
+}
+/* table,h4,td{
+	border: 2px solid #000;
+}
+i{
+	color: white;
+	background-color: red;
+	width: 50px;
+}
+h4{
+	color: white;
+	background-color: green;
+	width: 250px;
+}
+div{
+	color: black;
+	background-color: yellow;
+}
+h5{
+	text-align: center;
+}
+ul{
+	color: darkgreen;
+	background-color: darkgreen;
+	width: 300px;
+	height: 20px;
+}
+li{
+color: white;
+font: bold;
+}
+ol{
+	color: yellow;
+	text-align: left;
+}
+b{
+	background-color: lightgreen; 
+	color: white;
+}
+element{
+	text-align:right;
+	color: brown;
+	background-color: yellow;
+	width: 200px;
+	height: 50px;
+}
+data{
+	color: white;
+	font: bold;
+}
+kbd{
+	color: brown;
+	font: bold;
+}
+tbody{
+	text-align: right;
+	font: bold;
+}
+tfoot{
+	text-align: left;
+}
+u{
+	padding:3px;
+	margin: 1px;
+	background-color: red;
+	color: white;
+	width: 100px;
+	height: 2px;
+}
+ruby{
+	padding-left: 50px;
+}
+.verticalLine {
+  height: 300px;
+ center left: 1px solid #000900;
+  position: absolute;
+  center: 25%;
+} */
